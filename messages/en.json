@@ -1,0 +1,454 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "references": "References",
+    "contact": "Contact",
+    "gallery": "Gallery",
+    "projects": "Projects",
+    "langSwitch": "TR",
+    "services_dropdown": {
+      "etkinlik-yonetimi": "Event Management",
+      "produksiyon": "Production",
+      "menajerlik": "Management",
+      "ik-ekip-yonetimi": "HR & Team Management",
+      "media": "Media",
+      "organizasyon-malzemeleri": "Event Materials",
+      "ecr-etkinlik-bilgisayar": "Teknoloji Kiralama"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Istanbul · Turkey",
+      "title": "Experiences People Will Remember",
+      "subtitle": "From brand activations to product launches, corporate events to exclusive invitations — we design every detail and bring it to life.",
+      "cta_primary": "Get a Quote",
+      "cta_secondary": "View Our Work"
+    },
+    "trust": {
+      "label": "Trusted by Leading Brands"
+    },
+    "services": {
+      "eyebrow": "What We Do",
+      "title": "Exceptional Events at Any Scale",
+      "subtitle": "We craft experiences designed around your brand's specific needs.",
+      "cta": "Explore All Our Services",
+      "learn_more": "Learn More",
+      "categories": [
+        {
+          "icon": "Zap",
+          "title": "Brand Activations",
+          "desc": "Experience-driven events that build strong connections between your brand and target audience."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Product Launches",
+          "desc": "Flawless launch events that introduce your product to the right audience with maximum impact."
+        },
+        {
+          "icon": "Building2",
+          "title": "Corporate Events",
+          "desc": "From meetings to galas, seminars to award ceremonies — events that reflect your corporate identity."
+        },
+        {
+          "icon": "Star",
+          "title": "Private Experiences",
+          "desc": "Personalized events that will impress your guests and be talked about for a long time."
+        }
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Selected Work",
+      "title": "Moments from Our Events",
+      "subtitle": "Highlights from events we have brought to life.",
+      "cta": "View Full Gallery"
+    },
+    "about": {
+      "eyebrow": "About Us",
+      "title": "Built with Experience and Passion",
+      "body": "As Temay, with deep industry experience gained over the years, we serve across a wide spectrum from event management to production, talent management to media. We aim for excellence in every project and turn our clients' dreams into reality.",
+      "cta": "Learn More",
+      "years_experience": "Years of Experience",
+      "years_tagline": "Serving as a trusted name in the industry.",
+      "events_count": "Successful Events",
+      "clients_count": "Happy Clients",
+      "highlights": [
+        "Event Management Expertise",
+        "Professional Production Infrastructure",
+        "Experienced and Passionate Team",
+        "End-to-End Solutions"
+      ]
+    },
+    "process": {
+      "eyebrow": "How We Work",
+      "title": "Systematic, Transparent, Results-Driven",
+      "subtitle": "We apply the same disciplined process to every project — from your idea to the stage.",
+      "steps": [
+        {
+          "num": "01",
+          "title": "Briefing & Needs Analysis",
+          "desc": "We listen carefully to your project, goals, and expectations. We ask the right questions to clarify your needs."
+        },
+        {
+          "num": "02",
+          "title": "Concept & Planning",
+          "desc": "We develop a concept tailored to your brand, prepare a budget plan and a detailed timeline."
+        },
+        {
+          "num": "03",
+          "title": "Production & Organization",
+          "desc": "We manage all vendors, technical teams, and logistics in a coordinated way, tracking every detail."
+        },
+        {
+          "num": "04",
+          "title": "Execution & Delivery",
+          "desc": "We provide professional on-site management on event day, delivering a seamless experience."
+        }
+      ]
+    },
+    "references": {
+      "eyebrow": "References",
+      "title": "A Trusted Partner"
+    },
+    "cta": {
+      "title": "Let's Bring Your Project to Life",
+      "body": "Tell us your idea and we'll handle the rest. We approach every project — big or small — with the same dedication.",
+      "button": "Contact Us",
+      "secondary": "View Our Work"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "From events to production, talent management to media — comprehensive and professional solutions in every area.",
+    "detail_cta": "Interested in This Service?",
+    "detail_cta_button": "Contact Us",
+    "related_title": "Our Other Services",
+    "learn_more": "Learn More",
+    "breadcrumb_home": "Home",
+    "breadcrumb_services": "Services",
+    "what_we_offer": "What We Offer",
+    "how_we_work": "How We Work",
+    "our_process": "Our Process",
+    "items": {
+      "etkinlik-yonetimi": {
+        "title": "Event Management",
+        "short": "From corporate conferences to brand activations, launches to private invitations — end-to-end event management.",
+        "description": "We deliver strategic planning, meticulous logistics, and professional on-site operations under one roof. From your brief to the stage, we are your single point of contact — budget management, vendor coordination, crisis handling, and post-event analysis all included.",
+        "features": [
+          "Concept development and planning",
+          "Logistics coordination",
+          "On-site management and operations",
+          "Budget management",
+          "Post-event reporting"
+        ],
+        "process": [
+          { "step": "Briefing", "desc": "We thoroughly assess your needs and expectations." },
+          { "step": "Planning", "desc": "We prepare the concept, budget, and timeline." },
+          { "step": "Organization", "desc": "All vendors and teams are managed in a coordinated manner." },
+          { "step": "Execution", "desc": "Professional on-site management is provided on event day." }
+        ]
+      },
+      "produksiyon": {
+        "title": "Production",
+        "short": "Stage, sound, lighting, and visuals — world-class technical production.",
+        "description": "We work with the industry's finest equipment and most experienced technical crew to add real production value to your events. From atmospheric lighting design to LED visual mapping, from immersive sound setups to custom stage structures — every technical detail becomes part of the experience.",
+        "features": [
+          "Stage design and setup",
+          "Professional sound systems",
+          "Lighting design and control",
+          "LED screen and visual infrastructure",
+          "Technical crew management"
+        ],
+        "process": [
+          { "step": "Technical Briefing", "desc": "We analyze the technical requirements of your event." },
+          { "step": "Design", "desc": "Stage and technical infrastructure design is prepared." },
+          { "step": "Setup", "desc": "Our professional team sets up all technical equipment." },
+          { "step": "Live Support", "desc": "Technical support is provided throughout the event." }
+        ]
+      },
+      "menajerlik": {
+        "title": "Management",
+        "short": "Career strategy and brand management for artists, athletes, and influencers.",
+        "description": "We build sustainable career journeys by connecting talent with the right platforms, brands, and opportunities. From sponsorship negotiations to appearance scheduling, from brand partnerships to PR strategy — we offer a 360° talent management experience.",
+        "features": [
+          "Career planning and consulting",
+          "Brand deals and sponsorships",
+          "PR and media management",
+          "Event and appearance planning",
+          "Legal and financial consulting"
+        ],
+        "process": [
+          { "step": "Assessment", "desc": "We comprehensively evaluate talent and potential." },
+          { "step": "Strategy", "desc": "We develop a personalized career and brand strategy." },
+          { "step": "Execution", "desc": "We seize opportunities and manage agreements." },
+          { "step": "Growth", "desc": "We monitor and evaluate for continuous development." }
+        ]
+      },
+      "ik-ekip-yonetimi": {
+        "title": "HR & Team Management",
+        "short": "Event staffing and corporate HR consulting.",
+        "description": "From rapidly assembling qualified event crews for large-scale productions to providing strategic HR consulting for corporate organizations — we place the right people in the right positions at the right time. We manage the entire lifecycle from onboarding and training to performance evaluation.",
+        "features": [
+          "Recruitment and talent management",
+          "Orientation and training programs",
+          "Performance evaluation",
+          "Team development programs",
+          "HR consulting"
+        ],
+        "process": [
+          { "step": "Analysis", "desc": "We analyze your organization's needs in detail." },
+          { "step": "Planning", "desc": "We develop a customized HR strategy." },
+          { "step": "Implementation", "desc": "We implement and track the processes." },
+          { "step": "Optimization", "desc": "We measure results and continuously improve." }
+        ]
+      },
+      "media": {
+        "title": "Media",
+        "short": "Event content, digital strategy, social media, and PR.",
+        "description": "We amplify your event's digital footprint and strategically manage your brand's media presence. From live content capture to post-event campaigns, from influencer management to press relations — we maximize your brand's visibility across every channel.",
+        "features": [
+          "Social media management",
+          "Content production and strategy",
+          "PR and press relations",
+          "Digital advertising campaigns",
+          "Influencer collaborations"
+        ],
+        "process": [
+          { "step": "Brand Analysis", "desc": "We evaluate your current media presence and goals." },
+          { "step": "Strategy", "desc": "We prepare a customized media strategy." },
+          { "step": "Content Production", "desc": "We produce quality content tailored to your target audience." },
+          { "step": "Publishing & Tracking", "desc": "We manage publications and analyze performance." }
+        ]
+      },
+      "ecr-etkinlik-bilgisayar": {
+        "title": "Teknoloji Kiralama",
+        "short": "Technology rental with 11,000+ products and logistics reaching all 81 provinces.",
+        "description": "Founded in Istanbul in 2014, ECR Group is Turkey's leader in the technology rental sector. With over 10 years of experience and 8 distinct brands, we deliver end-to-end technology solutions to corporate clients.\n\nWith an inventory of over 11,000 products, our expert technical team, and a logistics network covering all 81 provinces of Turkey, we provide professional support for events and projects of any scale.",
+        "features": [
+          "Inventory of 11,000+ products across a wide technology range",
+          "Logistics network covering all 81 provinces of Turkey",
+          "Expert technical installation and on-site support team",
+          "Continuous technical supervision throughout your event",
+          "Corporate and event-based rental solutions"
+        ],
+        "process": [
+          { "step": "Needs Analysis", "desc": "We identify your event's technical requirements and product needs together." },
+          { "step": "Product Selection", "desc": "We select the most suitable technology from our 11,000+ product inventory." },
+          { "step": "Setup & Delivery", "desc": "Our expert team delivers, installs, and tests equipment at the venue." },
+          { "step": "Event Support", "desc": "We provide on-site technical support throughout the event for a seamless experience." }
+        ],
+        "subServices_eyebrow": "Our Service Portfolio",
+        "subServices_title": "Comprehensive Technology Services",
+        "subServices_subtitle": "Professional solutions across rental, service, and event management.",
+        "subServices": [
+          { "title": "Technology Rental", "desc": "Laptop, tablet, computer and all IT equipment rental solutions." },
+          { "title": "Long-Term Rental", "desc": "Long-term technology rental models for your corporate needs." },
+          { "title": "Event Rental", "desc": "Short-term equipment support for fairs, congresses, and all events." },
+          { "title": "Software Services", "desc": "Custom software solutions and technology integrations." },
+          { "title": "IT Services", "desc": "Corporate IT infrastructure and support services." },
+          { "title": "Registration Desk Services", "desc": "Hardware and technical personnel support for event registration." },
+          { "title": "VR Solutions", "desc": "End-to-end VR equipment services for virtual reality experiences." },
+          { "title": "E-Sports & Gaming", "desc": "Professional gaming hardware rental for e-sports tournaments." },
+          { "title": "Network", "desc": "Professional network infrastructure and management for event venues." },
+          { "title": "Internet Rental", "desc": "Portable, high-speed internet rental solutions." },
+          { "title": "Technical Service", "desc": "Professional technical support for all your technology products." },
+          { "title": "VR Repair", "desc": "Expert repair, maintenance and spare parts service for VR devices." },
+          { "title": "Event Management", "desc": "Technology-focused event planning and operational support." }
+        ]
+      },
+      "organizasyon-malzemeleri": {
+        "title": "Event Materials",
+        "short": "Corporate gift sets, promotional products, and event materials.",
+        "description": "We produce custom-designed gift sets, promotional products, and event materials that carry your brand's identity and the atmosphere of your event. From logo-printed products to premium packaging, from experience kits to printed materials — every item meets your brand's quality standard.",
+        "features": [
+          "Corporate gift solutions",
+          "Logo-printed promotional products",
+          "Custom printing and design",
+          "Event materials",
+          "Premium gift packaging"
+        ],
+        "process": [
+          { "step": "Needs Assessment", "desc": "We understand your campaign or event needs." },
+          { "step": "Design", "desc": "We prepare product designs suited to your brand." },
+          { "step": "Production", "desc": "We manage quality-controlled production process." },
+          { "step": "Delivery", "desc": "We ensure timely and complete delivery." }
+        ]
+      }
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Selected works and case studies from our portfolio.",
+    "eyebrow": "Case Studies",
+    "cta_contact": "Let's Discuss Your Project",
+    "card_client": "Client",
+    "card_type": "Event Type",
+    "card_goal": "Objective",
+    "card_result": "Result",
+    "items": [
+      {
+        "client": "FIAT",
+        "type": "Product Launch",
+        "title": "FIAT New Model Launch",
+        "goal": "Introducing the new model to automotive journalists and dealer networks with a premium experience.",
+        "what": "500+ guest launch event; stage design, lighting choreography, media coordination, and VIP invitation management.",
+        "result": "Covered by 35+ media outlets on event day. 2M+ organic social media reach achieved.",
+        "image": "/photoss/FIAT/1.jpg",
+        "tags": ["Launch", "Automotive", "Media"]
+      },
+      {
+        "client": "Sephora",
+        "type": "Brand Activation",
+        "title": "Sephora Experience Event",
+        "goal": "Transforming Sephora's new collection into an immersive customer experience.",
+        "what": "Interactive experience zones, influencer invitations, product demo stations, and live makeup shows.",
+        "result": "200+ influencer participation, 500K+ social media engagement.",
+        "image": "/photoss/Sephora/1.jpg",
+        "tags": ["Activation", "Beauty", "Influencer"]
+      },
+      {
+        "client": "HDI Insurance",
+        "type": "Corporate Event",
+        "title": "HDI Insurance Annual Gala",
+        "goal": "Annual gala event strengthening employee motivation and corporate belonging.",
+        "what": "300-person gala dinner, awards ceremony, stage production, music, and entertainment program.",
+        "result": "Participant satisfaction survey returned 96% positive feedback.",
+        "image": "/photoss/HDI Sigorta/1.jpg",
+        "tags": ["Gala", "Corporate", "Insurance"]
+      },
+      {
+        "client": "Peugeot",
+        "type": "Product Launch",
+        "title": "Peugeot Test Drive Experience",
+        "goal": "Introducing the new vehicle lineup to potential customers through a driving experience.",
+        "what": "Custom test track setup, VIP invitation management, catering, and brand activation.",
+        "result": "150+ test drives completed, 40% lead conversion rate achieved.",
+        "image": "/photoss/Peugeot/1.jpg",
+        "tags": ["Test Drive", "Automotive", "VIP"]
+      },
+      {
+        "client": "ABB",
+        "type": "Corporate Event",
+        "title": "ABB Technology Summit",
+        "goal": "Conference and networking event bringing together industry stakeholders.",
+        "what": "2-day conference management; hall setup, technical infrastructure, translation services, and VIP transfers.",
+        "result": "400+ industry professionals, international media coverage.",
+        "image": "/photoss/ABB/1.jpg",
+        "tags": ["Conference", "Technology", "B2B"]
+      },
+      {
+        "client": "TJK",
+        "type": "Private Experience",
+        "title": "TJK Exclusive Race Day",
+        "goal": "Delivering an unforgettable race day experience to select VIP guests.",
+        "what": "VIP stand setup, exclusive catering, brand area installation, and guest coordination.",
+        "result": "100 VIP guests, 100% satisfaction and repeat event request.",
+        "image": "/photoss/TJK/1.jpg",
+        "tags": ["VIP", "Private", "Sports"]
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "As Temay Events, we produce with passion.",
+    "story_eyebrow": "Our Story",
+    "story_title": "Started with Passion, Grown with Experience",
+    "story_body": "Temay was founded with a deep passion for the world of events. With the experience gained over the years and our strong team, we have become one of the trusted names in the industry. We aim for excellence in every event, every production, every project.\n\nWe work day and night to turn our clients' dreams into reality, meticulously planning and executing every detail. We serve with the same dedication and professionalism at every scale, from small celebrations to large corporate events.",
+    "values_eyebrow": "Our Values",
+    "values_title": "The Principles That Define Us",
+    "values": [
+      { "title": "Excellence", "desc": "We aim for the highest quality standards in every project." },
+      { "title": "Reliability", "desc": "We keep our promises and deliver on time and completely." },
+      { "title": "Creativity", "desc": "We produce innovative and original solutions in every project." },
+      { "title": "Teamwork", "desc": "We work together with our clients to achieve success." }
+    ],
+    "team_eyebrow": "Our Team",
+    "team_title": "The Strong Team Behind Us",
+    "stats": [
+      { "num": "10+", "label": "Years Experience" },
+      { "num": "2000+", "label": "Events" },
+      { "num": "500+", "label": "Clients" },
+      { "num": "50+", "label": "Team Members" }
+    ],
+    "team_members": [
+      { "name": "General Manager", "role": "Leadership" },
+      { "name": "Event Director", "role": "Events" },
+      { "name": "Production Manager", "role": "Production" },
+      { "name": "HR Specialist", "role": "Human Resources" },
+      { "name": "Media Specialist", "role": "Media" },
+      { "name": "Manager", "role": "Talent Management" }
+    ]
+  },
+  "references": {
+    "title": "References",
+    "subtitle": "Brands and organizations we have worked with over the years and earned their trust."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Reach out to us for your project. We will get back to you as soon as possible.",
+    "form": {
+      "title": "Get a Quote or Information",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone (optional)",
+      "company": "Company Name (optional)",
+      "company_placeholder": "Your company name",
+      "event_type": "Event Type",
+      "event_type_placeholder": "Select event type",
+      "event_types": [
+        "Brand Activation",
+        "Product Launch",
+        "Corporate Event / Gala",
+        "Conference / Seminar",
+        "Private / VIP Event",
+        "Production Services",
+        "Talent Management",
+        "HR & Team Management",
+        "Media / PR",
+        "Event Materials",
+        "Other"
+      ],
+      "budget": "Estimated Budget (optional)",
+      "budget_placeholder": "Select budget range",
+      "budgets": [
+        "Under $3,000",
+        "$3,000 – $10,000",
+        "$10,000 – $25,000",
+        "Over $25,000",
+        "Prefer not to say"
+      ],
+      "message": "Project Details",
+      "message_placeholder": "Tell us about your event: date, location, number of guests, special requests...",
+      "submit": "Send",
+      "success_title": "Message Sent!",
+      "success_body": "We will get back to you as soon as possible.",
+      "required": "This field is required",
+      "invalid_email": "Enter a valid email address",
+      "new_message": "New Message",
+      "error": "An error occurred while sending your message. Please try again.",
+      "email_placeholder": "example@company.com",
+      "phone_placeholder": "+1 (xxx) xxx-xxxx"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address_label": "Address",
+      "address": "Atalay Caddesi No:9 Ataşehir, Istanbul 34758",
+      "phone_label": "Phone",
+      "phone": "+90 (532) 474 07 27",
+      "email_label": "Email",
+      "email": "info@temayevents.com",
+      "social_label": "Social Media"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Snapshots from our events and projects."
+  },
+  "footer": {
+    "tagline": "Events · Production · Human Resources",
+    "rights": "All rights reserved.",
+    "company": "Temay Events",
+    "pages": "Pages"
+  }
+}

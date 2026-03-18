@@ -1,0 +1,454 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "references": "Referanslar",
+    "contact": "İletişim",
+    "gallery": "Galeri",
+    "projects": "Projeler",
+    "langSwitch": "EN",
+    "services_dropdown": {
+      "etkinlik-yonetimi": "Etkinlik Yönetimi",
+      "produksiyon": "Prodüksiyon",
+      "menajerlik": "Menajerlik",
+      "ik-ekip-yonetimi": "İK & Ekip Yönetimi",
+      "media": "Medya",
+      "organizasyon-malzemeleri": "Organizasyon Malzemeleri",
+      "ecr-etkinlik-bilgisayar": "Teknoloji Kiralama"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "İstanbul · Türkiye",
+      "title": "İnsanların Hatırlayacağı Deneyimler",
+      "subtitle": "Marka aktivasyonlarından ürün lansmanlarına, kurumsal etkinliklerden özel davet organizasyonlarına — her detayı tasarlıyor, hayata geçiriyoruz.",
+      "cta_primary": "Teklif Alın",
+      "cta_secondary": "Çalışmalarımıza Bakın"
+    },
+    "trust": {
+      "label": "Güvenilir Markalar Tercih Ediyor"
+    },
+    "services": {
+      "eyebrow": "Ne Yapıyoruz",
+      "title": "Her Ölçekte Mükemmel Etkinlikler",
+      "subtitle": "Markanızın ihtiyacına göre tasarlanmış deneyimler üretiyoruz.",
+      "cta": "Tüm Hizmetlerimizi İnceleyin",
+      "learn_more": "Detaylı Bilgi",
+      "categories": [
+        {
+          "icon": "Zap",
+          "title": "Marka Aktivasyonları",
+          "desc": "Hedef kitlenizle güçlü bir bağ kuran, markanızı yaşatan deneyim odaklı etkinlikler."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Ürün Lansmanları",
+          "desc": "Ürününüzü doğru kitleye, doğru etki ile tanıtacak kusursuz lansman organizasyonları."
+        },
+        {
+          "icon": "Building2",
+          "title": "Kurumsal Etkinlikler",
+          "desc": "Toplantıdan galaya, seminerden ödül törenine — kurumsal kimliğinizi yansıtan etkinlikler."
+        },
+        {
+          "icon": "Star",
+          "title": "Özel Deneyimler",
+          "desc": "Davetlilerinizi etkileyecek, uzun süre konuşulacak kişiselleştirilmiş organizasyonlar."
+        }
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Seçilmiş Çalışmalar",
+      "title": "İşlerimizden Kareler",
+      "subtitle": "Gerçekleştirdiğimiz etkinliklerden öne çıkan anlar.",
+      "cta": "Tüm Galeriyi Gör"
+    },
+    "about": {
+      "eyebrow": "Hakkımızda",
+      "title": "Deneyim ve Tutku ile Büyüdük",
+      "body": "Temay olarak yıllar içinde edindiğimiz derin sektör deneyimiyle, etkinlik yönetiminden prodüksiyona, menajerlikten medyaya geniş bir yelpazede hizmet veriyoruz. Her projede mükemmeliyeti hedefliyor, müşterilerimizin hayallerini gerçeğe dönüştürüyoruz.",
+      "cta": "Daha Fazla Bilgi",
+      "years_experience": "Yıllık Deneyim",
+      "years_tagline": "Sektörde güvenilir bir isim olarak hizmet veriyoruz.",
+      "events_count": "Başarılı Etkinlik",
+      "clients_count": "Mutlu Müşteri",
+      "highlights": [
+        "Etkinlik Yönetimi Uzmanlığı",
+        "Profesyonel Prodüksiyon Altyapısı",
+        "Deneyimli ve Tutkulu Ekip",
+        "Uçtan Uca Çözümler"
+      ]
+    },
+    "process": {
+      "eyebrow": "Nasıl Çalışıyoruz",
+      "title": "Sistematik, Şeffaf, Sonuç Odaklı",
+      "subtitle": "Her projede aynı disiplinli süreci uyguluyoruz — fikrinizden sahneye kadar.",
+      "steps": [
+        {
+          "num": "01",
+          "title": "Brifing & İhtiyaç Analizi",
+          "desc": "Projenizi, hedeflerinizi ve beklentilerinizi detaylı şekilde dinliyoruz. Doğru sorular sorarak ihtiyacı netleştiriyoruz."
+        },
+        {
+          "num": "02",
+          "title": "Konsept & Planlama",
+          "desc": "Markanıza özel konsept geliştiriyor, bütçe planlaması ve detaylı zaman çizelgesi hazırlıyoruz."
+        },
+        {
+          "num": "03",
+          "title": "Üretim & Organizasyon",
+          "desc": "Tüm tedarikçileri, teknik ekipleri ve lojistiği koordineli şekilde yönetiyor, her detayı takip ediyoruz."
+        },
+        {
+          "num": "04",
+          "title": "Uygulama & Teslim",
+          "desc": "Etkinlik günü profesyonel saha yönetimi sağlıyor, sorunsuz bir deneyim sunuyoruz."
+        }
+      ]
+    },
+    "references": {
+      "eyebrow": "Referanslarımız",
+      "title": "Güven Duyulan Bir Ortak"
+    },
+    "cta": {
+      "title": "Projenizi Birlikte Hayata Geçirelim",
+      "body": "Fikrinizi bize anlatın, gerisini biz halledelim. Küçük ya da büyük her projeye aynı özveriyle yaklaşıyoruz.",
+      "button": "İletişime Geçin",
+      "secondary": "Çalışmalarımıza Bakın"
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Etkinlikten prodüksiyona, menajerlikten medyaya — her alanda kapsamlı ve profesyonel çözümler.",
+    "detail_cta": "Bu Hizmeti Almak İster misiniz?",
+    "detail_cta_button": "İletişime Geçin",
+    "related_title": "Diğer Hizmetlerimiz",
+    "learn_more": "Daha Fazla",
+    "breadcrumb_home": "Ana Sayfa",
+    "breadcrumb_services": "Hizmetler",
+    "what_we_offer": "Neler Sunuyoruz",
+    "how_we_work": "Nasıl Çalışıyoruz",
+    "our_process": "Sürecimiz",
+    "items": {
+      "etkinlik-yonetimi": {
+        "title": "Etkinlik Yönetimi",
+        "short": "Kurumsal konferanstan marka aktivasyonuna, lansmanlardan özel davetlere — uçtan uca etkinlik yönetimi.",
+        "description": "Stratejik planlama, titiz lojistik ve profesyonel saha operasyonunu tek çatı altında sunuyoruz. Brief'inizden sahneye kadar her adımda tek muhatabınızız; bütçe yönetiminden vendor koordinasyonuna, kriz yönetiminden etkinlik sonrası analize kadar eksiksiz bir deneyim tasarlıyoruz.",
+        "features": [
+          "Konsept geliştirme ve planlama",
+          "Lojistik koordinasyon",
+          "Saha yönetimi ve operasyon",
+          "Bütçe yönetimi",
+          "Etkinlik sonrası raporlama"
+        ],
+        "process": [
+          { "step": "Brifing", "desc": "İhtiyaçlarınızı ve beklentilerinizi detaylı olarak değerlendiriyoruz." },
+          { "step": "Planlama", "desc": "Konsept, bütçe ve zaman çizelgesi hazırlıyoruz." },
+          { "step": "Organizasyon", "desc": "Tüm tedarikçiler ve ekipler koordineli şekilde yönetilir." },
+          { "step": "Uygulama", "desc": "Etkinlik günü profesyonel saha yönetimi sağlanır." }
+        ]
+      },
+      "produksiyon": {
+        "title": "Prodüksiyon",
+        "short": "Sahne, ses, ışık ve görsel — dünya standartlarında teknik prodüksiyon.",
+        "description": "Sektörün en iyi ekipmanları ve en deneyimli teknik kadrosuyla etkinliklerinize gerçek bir prodüksiyon değeri katıyoruz. Atmosferik ışık tasarımından LED görsel mapping'e, immersive ses kurulumundan özel sahne yapılarına kadar her teknik detayı deneyimin bir parçasına dönüştürüyoruz.",
+        "features": [
+          "Sahne tasarımı ve kurulumu",
+          "Profesyonel ses sistemleri",
+          "Işık tasarımı ve kontrolü",
+          "LED ekran ve görsel altyapı",
+          "Teknik ekip yönetimi"
+        ],
+        "process": [
+          { "step": "Teknik Brifing", "desc": "Etkinliğin teknik gereksinimlerini analiz ediyoruz." },
+          { "step": "Tasarım", "desc": "Sahne ve teknik altyapı tasarımı hazırlanır." },
+          { "step": "Kurulum", "desc": "Profesyonel ekibimiz tüm teknik ekipmanı kurar." },
+          { "step": "Canlı Destek", "desc": "Etkinlik süresince teknik destek sağlanır." }
+        ]
+      },
+      "menajerlik": {
+        "title": "Menajerlik",
+        "short": "Sanatçı, sporcu ve influencer için kariyer stratejisi ve marka yönetimi.",
+        "description": "Yeteneği doğru platformlar, markalar ve fırsatlarla buluşturarak sürdürülebilir kariyer yolculukları inşa ediyoruz. Sponsorluk müzakerelerinden görünüm planlamasına, marka işbirliklerinden PR stratejisine kadar 360° bir menajman deneyimi sunuyoruz.",
+        "features": [
+          "Kariyer planlaması ve danışmanlık",
+          "Marka anlaşmaları ve sponsorluklar",
+          "PR ve medya yönetimi",
+          "Etkinlik ve görünüm planlaması",
+          "Hukuki ve finansal danışmanlık"
+        ],
+        "process": [
+          { "step": "Değerlendirme", "desc": "Yeteneği ve potansiyelini kapsamlı olarak değerlendiriyoruz." },
+          { "step": "Strateji", "desc": "Kişiye özel kariyer ve marka stratejisi geliştiriyoruz." },
+          { "step": "Uygulama", "desc": "Fırsatları değerlendirir, anlaşmaları yönetiriz." },
+          { "step": "Büyüme", "desc": "Sürekli gelişim için izleme ve değerlendirme yapıyoruz." }
+        ]
+      },
+      "ik-ekip-yonetimi": {
+        "title": "İK & Ekip Yönetimi",
+        "short": "Etkinlik saha kadrosu ve kurumsal İK danışmanlığı.",
+        "description": "Büyük ölçekli etkinlikler için hızlı ve nitelikli saha ekibi oluşturmaktan, kurumsal yapılar için stratejik İK danışmanlığına kadar geniş bir yelpazede hizmet veriyoruz. Doğru insanı, doğru pozisyona, doğru zamanda yerleştiriyor; oryantasyondan performans değerlendirmeye kadar tüm süreci yönetiyoruz.",
+        "features": [
+          "İşe alım ve yetenek yönetimi",
+          "Oryantasyon ve eğitim programları",
+          "Performans değerlendirme",
+          "Ekip gelişim programları",
+          "İK danışmanlığı"
+        ],
+        "process": [
+          { "step": "Analiz", "desc": "Organizasyonunuzun ihtiyaçlarını detaylı analiz ediyoruz." },
+          { "step": "Planlama", "desc": "Özelleştirilmiş İK stratejisi geliştiriyoruz." },
+          { "step": "Uygulama", "desc": "Süreçleri hayata geçirir ve takip ederiz." },
+          { "step": "Optimizasyon", "desc": "Sonuçları ölçer ve sürekli iyileştiririz." }
+        ]
+      },
+      "media": {
+        "title": "Medya",
+        "short": "Etkinlik içeriği, dijital strateji, sosyal medya ve PR.",
+        "description": "Etkinliklerinizin dijital ayak izini güçlendiriyor, markanızın medyadaki sesini stratejik olarak yönetiyoruz. Canlı içerik üretiminden etkinlik sonrası kampanyalara, influencer yönetiminden basın ilişkilerine kadar markanızın görünürlüğünü maksimize ediyoruz.",
+        "features": [
+          "Sosyal medya yönetimi",
+          "İçerik üretimi ve strateji",
+          "PR ve basın ilişkileri",
+          "Dijital reklam kampanyaları",
+          "Influencer iş birlikleri"
+        ],
+        "process": [
+          { "step": "Marka Analizi", "desc": "Mevcut medya varlığınızı ve hedeflerinizi değerlendiriyoruz." },
+          { "step": "Strateji", "desc": "Özelleştirilmiş medya stratejisi hazırlıyoruz." },
+          { "step": "İçerik Üretimi", "desc": "Kaliteli ve hedef kitleye uygun içerikler üretiyoruz." },
+          { "step": "Yayın & Takip", "desc": "Yayınları yönetir, performansı analiz ederiz." }
+        ]
+      },
+      "ecr-etkinlik-bilgisayar": {
+        "title": "Teknoloji Kiralama",
+        "short": "11.000+ ürün kapasitesi ve 81 ile ulaşan lojistik ağıyla teknoloji kiralama.",
+        "description": "2014 yılında İstanbul'da kurulan ECR Group, Türkiye'nin teknoloji kiralama sektöründe lider konumunda yer almaktadır. 10 yılı aşkın deneyimimiz ve 8 farklı markamızla, kurumsal müşterilerimize uçtan uca teknoloji çözümleri sunuyoruz.\n\n11.000'den fazla ürün envanterimiz, uzman teknik ekibimiz ve Türkiye'nin 81 iline ulaşan lojistik ağımızla, her ölçekteki etkinlik ve projenize profesyonel destek sağlıyoruz.",
+        "features": [
+          "11.000+ ürün envanteri ve geniş teknoloji yelpazesi",
+          "Türkiye'nin 81 iline ulaşan lojistik ağı",
+          "Uzman teknik kurulum ve yerinde destek ekibi",
+          "Etkinlik süresince kesintisiz teknik gözetim",
+          "Kurumsal ve etkinlik bazlı kiralama çözümleri"
+        ],
+        "process": [
+          { "step": "İhtiyaç Analizi", "desc": "Etkinliğinizin teknik gereksinimlerini ve ürün ihtiyaçlarını birlikte belirliyoruz." },
+          { "step": "Ürün Seçimi", "desc": "11.000'den fazla ürün envanterimizden etkinliğinize en uygun teknolojiyi seçiyoruz." },
+          { "step": "Kurulum & Teslimat", "desc": "Uzman ekibimiz ürünleri etkinlik alanına taşıyor, kuruyor ve test ediyor." },
+          { "step": "Etkinlik Desteği", "desc": "Etkinlik boyunca yerinde teknik destek sağlıyor, sorunsuz bir deneyim sunuyoruz." }
+        ],
+        "subServices_eyebrow": "Hizmet Portföyümüz",
+        "subServices_title": "Kapsamlı Teknoloji Hizmetleri",
+        "subServices_subtitle": "Kiralama, servis ve etkinlik yönetimi alanlarında profesyonel çözümler sunuyoruz.",
+        "subServices": [
+          { "title": "Teknoloji Kiralama", "desc": "Laptop, tablet, bilgisayar ve tüm IT ekipmanlarının kiralama çözümleri." },
+          { "title": "Uzun Dönem Kiralama", "desc": "Kurumsal ihtiyaçlarınız için uzun vadeli teknoloji kiralama modelleri." },
+          { "title": "Etkinlik Kiralama", "desc": "Fuar, kongre ve tüm etkinlikleriniz için kısa süreli ekipman desteği." },
+          { "title": "Yazılım Hizmetleri", "desc": "İhtiyaca özel yazılım çözümleri ve teknolojik entegrasyonlar." },
+          { "title": "Bilişim Hizmetleri", "desc": "Kurumsal bilişim altyapısı ve IT destek hizmetleri." },
+          { "title": "Kayıt Masası Hizmetleri", "desc": "Etkinlik kayıt süreçleri için donanım ve teknik personel desteği." },
+          { "title": "VR Çözümleri", "desc": "Sanal gerçeklik deneyimleri için uçtan uca VR ekipman hizmetleri." },
+          { "title": "E-Spor & Gaming", "desc": "E-spor turnuvaları için profesyonel gaming donanım kiralama." },
+          { "title": "Network", "desc": "Etkinlik alanlarında profesyonel ağ altyapısı ve yönetimi." },
+          { "title": "İnternet Kiralama", "desc": "Taşınabilir, yüksek hızlı internet kiralama çözümleri." },
+          { "title": "Teknik Servis", "desc": "Tüm teknolojik ürünleriniz için profesyonel teknik destek." },
+          { "title": "VR Tamir", "desc": "VR cihazları için uzman tamir, bakım ve yedek parça hizmeti." },
+          { "title": "Etkinlik Yönetimi", "desc": "Teknoloji odaklı etkinlik planlama ve operasyonel destek." }
+        ]
+      },
+      "organizasyon-malzemeleri": {
+        "title": "Organizasyon Malzemeleri",
+        "short": "Kurumsal hediye seti, promosyon ürünü ve etkinlik materyalleri.",
+        "description": "Markanızın kimliğini ve etkinliğinizin atmosferini yansıtan özel tasarım hediye setleri, promosyon ürünleri ve etkinlik materyalleri üretiyoruz. Logolu ürünlerden premium kutulama çözümlerine, deneyim kitlerinden baskı materyallerine kadar tüm ihtiyaçlarınızı markanızın kalite standartlarında karşılıyoruz.",
+        "features": [
+          "Kurumsal hediye çözümleri",
+          "Logolu tanıtım ürünleri",
+          "Özel baskı ve tasarım",
+          "Etkinlik malzemeleri",
+          "Premium hediye paketleme"
+        ],
+        "process": [
+          { "step": "İhtiyaç Belirleme", "desc": "Kampanya veya etkinlik ihtiyaçlarınızı anlıyoruz." },
+          { "step": "Tasarım", "desc": "Markanıza uygun ürün tasarımları hazırlıyoruz." },
+          { "step": "Üretim", "desc": "Kalite kontrollü üretim sürecini yönetiyoruz." },
+          { "step": "Teslimat", "desc": "Zamanında ve eksiksiz teslimat sağlıyoruz." }
+        ]
+      }
+    }
+  },
+  "projects": {
+    "title": "Projelerimiz",
+    "subtitle": "Gerçekleştirdiğimiz seçilmiş çalışmalar ve örnek projeler.",
+    "eyebrow": "Örnek Çalışmalar",
+    "cta_contact": "Projenizi Konuşalım",
+    "card_client": "Marka",
+    "card_type": "Etkinlik Türü",
+    "card_goal": "Hedef",
+    "card_result": "Sonuç",
+    "items": [
+      {
+        "client": "FIAT",
+        "type": "Ürün Lansmanı",
+        "title": "FIAT Yeni Model Lansmanı",
+        "goal": "Yeni modelin otomotiv gazetecileri ve bayi ağına premium bir deneyimle tanıtılması.",
+        "what": "500+ davetli kapasiteli lansman organizasyonu; sahne tasarımı, ışık koreografisi, medya koordinasyonu ve VIP davet yönetimi.",
+        "result": "Etkinlik günü 35+ medya kuruluşunda yer aldı. Sosyal medyada 2M+ organik erişim sağlandı.",
+        "image": "/photoss/FIAT/1.jpg",
+        "tags": ["Lansman", "Otomotiv", "Medya"]
+      },
+      {
+        "client": "Sephora",
+        "type": "Marka Aktivasyonu",
+        "title": "Sephora Deneyim Etkinliği",
+        "goal": "Sephora'nın yeni koleksiyonunu müşteri deneyimine dönüştürmek.",
+        "what": "Interaktif deneyim alanları, influencer daveti, ürün tanıtım istasyonları ve canlı makyaj gösterileri.",
+        "result": "200+ influencer katılımı, 500K+ sosyal medya etkileşimi.",
+        "image": "/photoss/Sephora/1.jpg",
+        "tags": ["Aktivasyon", "Beauty", "Influencer"]
+      },
+      {
+        "client": "HDI Sigorta",
+        "type": "Kurumsal Etkinlik",
+        "title": "HDI Sigorta Yıllık Gala",
+        "goal": "Çalışan motivasyonu ve kurumsal bağlılığı güçlendiren yıllık gala organizasyonu.",
+        "what": "300 kişilik gala yemeği, ödül töreni, sahne prodüksiyonu, müzik ve eğlence programı.",
+        "result": "Katılımcı memnuniyet anketi %96 pozitif geri dönüş aldı.",
+        "image": "/photoss/HDI Sigorta/1.jpg",
+        "tags": ["Gala", "Kurumsal", "Sigorta"]
+      },
+      {
+        "client": "Peugeot",
+        "type": "Ürün Lansmanı",
+        "title": "Peugeot Test Drive Deneyimi",
+        "goal": "Yeni araç serisinin potansiyel müşterilere sürüş deneyimiyle tanıtılması.",
+        "what": "Özel test parkuru kurulumu, VIP davet organizasyonu, ikram ve marka aktivasyonu.",
+        "result": "150+ test sürüşü tamamlandı, %40 lead dönüşüm oranı elde edildi.",
+        "image": "/photoss/Peugeot/1.jpg",
+        "tags": ["Test Drive", "Otomotiv", "VIP"]
+      },
+      {
+        "client": "ABB",
+        "type": "Kurumsal Etkinlik",
+        "title": "ABB Teknoloji Zirvesi",
+        "goal": "Endüstri paydaşlarını bir araya getiren konferans ve ağ oluşturma etkinliği.",
+        "what": "2 günlük konferans organizasyonu; salon düzenlemesi, teknik altyapı, çeviri hizmetleri ve VIP transferleri.",
+        "result": "400+ sektör profesyoneli katılımı, uluslararası medyada yer alma.",
+        "image": "/photoss/ABB/1.jpg",
+        "tags": ["Konferans", "Teknoloji", "B2B"]
+      },
+      {
+        "client": "TJK",
+        "type": "Özel Deneyim",
+        "title": "TJK Özel Davet Etkinliği",
+        "goal": "Seçkin misafirlere unutulmaz bir yarış günü deneyimi sunmak.",
+        "what": "VIP tribün organizasyonu, özel ikram, marka alanı kurulumu ve misafir koordinasyonu.",
+        "result": "100 VIP misafir, %100 memnuniyet ve yeniden etkinlik talebi.",
+        "image": "/photoss/TJK/1.jpg",
+        "tags": ["VIP", "Özel Davet", "Spor"]
+      }
+    ]
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Temay Events olarak, tutkuyla üretiyoruz.",
+    "story_eyebrow": "Hikayemiz",
+    "story_title": "Tutkuyla Başladı, Deneyimle Büyüdü",
+    "story_body": "Temay, etkinlik dünyasına olan derin tutkuyla kuruldu. Yıllar içinde edindiğimiz deneyim ve güçlü ekibimizle sektörün güvenilir isimlerinden biri haline geldik. Her etkinlikte, her prodüksiyonda, her projede mükemmeliyeti hedefliyoruz.\n\nMüşterilerimizin hayallerini gerçeğe dönüştürmek için gece gündüz çalışıyor, her detayı titizlikle planlıyor ve uyguluyoruz. Küçük kutlamalardan büyük kurumsal etkinliklere, her ölçekte aynı özveri ve profesyonellikle hizmet veriyoruz.",
+    "values_eyebrow": "Değerlerimiz",
+    "values_title": "Bizi Biz Yapan İlkeler",
+    "values": [
+      { "title": "Mükemmellik", "desc": "Her projede en yüksek kalite standartlarını hedefliyoruz." },
+      { "title": "Güvenilirlik", "desc": "Verdiğimiz sözü tutar, zamanında ve eksiksiz teslim ederiz." },
+      { "title": "Yaratıcılık", "desc": "Her projede yenilikçi ve özgün çözümler üretiyoruz." },
+      { "title": "Takım Ruhu", "desc": "Müşterilerimizle birlikte çalışarak başarıya ulaşıyoruz." }
+    ],
+    "team_eyebrow": "Ekibimiz",
+    "team_title": "Arkamızdaki Güçlü Ekip",
+    "stats": [
+      { "num": "10+", "label": "Yıllık Deneyim" },
+      { "num": "2000+", "label": "Etkinlik" },
+      { "num": "500+", "label": "Müşteri" },
+      { "num": "50+", "label": "Ekip Üyesi" }
+    ],
+    "team_members": [
+      { "name": "Genel Müdür", "role": "Liderlik" },
+      { "name": "Etkinlik Direktörü", "role": "Etkinlik" },
+      { "name": "Prodüksiyon Müdürü", "role": "Prodüksiyon" },
+      { "name": "İK Uzmanı", "role": "İnsan Kaynakları" },
+      { "name": "Medya Uzmanı", "role": "Medya" },
+      { "name": "Menajer", "role": "Menajerlik" }
+    ]
+  },
+  "references": {
+    "title": "Referanslarımız",
+    "subtitle": "Yıllar içinde birlikte çalıştığımız ve güvenini kazandığımız markalar ve kuruluşlar."
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Projeniz için bize ulaşın. En kısa sürede geri dönüş yapacağız.",
+    "form": {
+      "title": "Teklif veya Bilgi Alın",
+      "name": "Ad Soyad",
+      "email": "E-posta Adresi",
+      "phone": "Telefon (isteğe bağlı)",
+      "company": "Şirket Adı (isteğe bağlı)",
+      "company_placeholder": "Şirketinizin adı",
+      "event_type": "Etkinlik Türü",
+      "event_type_placeholder": "Etkinlik türü seçin",
+      "event_types": [
+        "Marka Aktivasyonu",
+        "Ürün Lansmanı",
+        "Kurumsal Etkinlik / Gala",
+        "Konferans / Seminer",
+        "Özel Davet / VIP Etkinlik",
+        "Prodüksiyon Hizmetleri",
+        "Menajerlik",
+        "İK & Ekip Yönetimi",
+        "Medya / PR",
+        "Organizasyon Malzemeleri",
+        "Diğer"
+      ],
+      "budget": "Tahmini Bütçe (isteğe bağlı)",
+      "budget_placeholder": "Bütçe aralığı seçin",
+      "budgets": [
+        "100.000 TL altı",
+        "100.000 – 300.000 TL",
+        "300.000 – 750.000 TL",
+        "750.000 TL üzeri",
+        "Belirtmek istemiyorum"
+      ],
+      "message": "Proje Detayları",
+      "message_placeholder": "Etkinliğiniz hakkında kısaca bilgi verin: tarih, lokasyon, katılımcı sayısı, özel istekler...",
+      "submit": "Gönder",
+      "success_title": "Mesajınız İletildi!",
+      "success_body": "En kısa sürede size geri döneceğiz.",
+      "required": "Bu alan zorunludur",
+      "invalid_email": "Geçerli bir e-posta adresi girin",
+      "new_message": "Yeni Mesaj",
+      "error": "Mesaj gönderilirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "email_placeholder": "ornek@sirket.com",
+      "phone_placeholder": "+90 5xx xxx xx xx"
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "address_label": "Adres",
+      "address": "Atalay Caddesi No:9 Ataşehir, İstanbul 34758",
+      "phone_label": "Telefon",
+      "phone": "+90 (532) 474 07 27",
+      "email_label": "E-posta",
+      "email": "info@temayevents.com",
+      "social_label": "Sosyal Medya"
+    }
+  },
+  "gallery": {
+    "title": "Galeri",
+    "subtitle": "Gerçekleştirdiğimiz etkinlik ve projelerden kareler."
+  },
+  "footer": {
+    "tagline": "Etkinlik · Prodüksiyon · İnsan Kaynakları",
+    "rights": "Tüm hakları saklıdır.",
+    "company": "Temay Events",
+    "pages": "Sayfalar"
+  }
+}
